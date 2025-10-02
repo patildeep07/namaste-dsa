@@ -40,3 +40,10 @@ let nums2 = [1, 0, 1, 1, 0, 1];
 const result2 = findMaxConsecutiveOnes(nums2);
 console.log(`Result2 for array ${nums2} is ${result2}`);
 console.log("######################");
+
+// Final Output:
+// ######################
+// Result1 for array 1,1,0,1,1,1 is 3
+// ######################
+// Result2 for array 1,0,1,1,0,1 is 2
+// ######################
