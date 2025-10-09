@@ -28,5 +28,12 @@ B] Arrays (Easy & Medium):
   8. Missing Number - [LeetCode](https://leetcode.com/problems/missing-number/) - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-1.%20Arrays%20(Easy-Medium)/8.%20Missing%20Number/index.js)
   9. Single Number - [LeetCode](https://leetcode.com/problems/single-number/description/) - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-1.%20Arrays%20(Easy-Medium)/9.%20Single%20Number/index.js)
 
-C] Recursion:
+C] Recursion (Easy & Medium):
+  1. Sum of first n numbers - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/1.%20Sum%20of%20first%20n%20numbers/index.js)
+  2. Sum of numbers in array - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/2.%20Sum%20of%20Numbers%20in%20Array/index.js)
+  3. Sum of odd numbers in array - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/3.%20Sum%20of%20odd%20numbers%20in%20array/index.js)
+  4. Factorial of a number - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/4.%20Factorial%20of%20a%20number/index.js)
+  5. Power of Two - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/5.%20Power%20of%20Two/index.js)
+  6. Fibonacci Number - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/6.%20Fibonacci%20Number/index.js)
+
 WorkInProgress!!!
