@@ -28,4 +28,5 @@ B] Arrays (Easy & Medium):
   8. Missing Number - [LeetCode](https://leetcode.com/problems/missing-number/) - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-1.%20Arrays%20(Easy-Medium)/8.%20Missing%20Number/index.js)
   9. Single Number - [LeetCode](https://leetcode.com/problems/single-number/description/) - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-1.%20Arrays%20(Easy-Medium)/9.%20Single%20Number/index.js)
 
+C] Recursion:
 WorkInProgress!!!
