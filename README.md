@@ -36,4 +36,7 @@ C] Recursion (Easy & Medium):
   5. Power of Two - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/5.%20Power%20of%20Two/index.js)
   6. Fibonacci Number - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-2.%20Recursion%20(Easy-Medium)/6.%20Fibonacci%20Number/index.js)
 
+D] Searching and Sorting (Easy & Medium):
+  1. Linear Search - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-3.%20Searching%20and%20Sorting%20(Easy-Medium)/1.%20Linear%20Search/index.js)
+
 WorkInProgress!!!
