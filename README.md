@@ -38,5 +38,6 @@ C] Recursion (Easy & Medium):
 
 D] Searching and Sorting (Easy & Medium):
   1. Linear Search - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-3.%20Searching%20and%20Sorting%20(Easy-Medium)/1.%20Linear%20Search/index.js)
+  2. Binary Search - [LeetCode](https://leetcode.com/problems/binary-search/) - [Solution](https://github.com/patildeep07/namaste-dsa/blob/main/Ch-3.%20Searching%20and%20Sorting%20(Easy-Medium)/2.%20Binary%20Search/index.js)
 
 WorkInProgress!!!
