@@ -15,6 +15,7 @@
 
 function bubbleSort(nums) {
     let n = nums.length;
+    let didSort = false;
 
     for (let i = 0; i < n - 1; i++) {
         for (let j = 0; j < n - 1 - i; j++) {
@@ -24,6 +25,8 @@ function bubbleSort(nums) {
                 nums[j + 1] = temp
             }
         }
+
+        if (!didSort) break;
     }
 
     return nums
